@@ -2,15 +2,7 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 int sumar(const int a, const int b) {//recibe dos enteros y devuelve su suma
-=======
-int sumar(const int a, const int b) { //la función recibe dos números enteros como parámetros y devuelve la suma de dichos números
->>>>>>> 907cfe1df6a7d0f1fee85f53b0384d772d95d661
-=======
-int sumar(int a, int b) {
->>>>>>> parent of d85d0a7 (wip: experimento roto)
     return a + b;
 }
 
